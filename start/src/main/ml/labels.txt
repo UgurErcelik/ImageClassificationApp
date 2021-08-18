@@ -1,0 +1,6 @@
+biyoloji
+fizik
+geometri
+kimya
+matematik
+turkce

@@ -1,0 +1,1 @@
+*.psd,*.bat,*.gradle,*.properties,*.md,*.gitignore,*.pro,*.xml,*.tflite,*.txt,*.kt filter=lfs diff=lfs merge=lfs -text
